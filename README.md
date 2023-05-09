@@ -10,16 +10,16 @@
 - How have GameCo's sales figures varied between geographic regions over time?
 
 ## **Data**
-### [Downloadable Excel file]
+### [Downloadable Excel file](https://github.com/dsad8000/gameco_marketing_project/blob/main/Video_sales.xlsx)
 [Data retrieved from VGChartz site](https://www.vgchartz.com/)
 
 ## **Limitations**
-### Games included in the dataset are those that sold more than 100,000 copies. The data contains geographical bias, as data sales records are computed based on "retail sampling and trends in individual countries, which are then extrapolated to represent the wider region." [https://www.vgchartz.com/methodology.php](https://www.vgchartz.com/methodology.php) Mean imputation was used to calculate missing values in records of Global Sales.
+### Games included in the dataset are those that sold more than 100,000 copies. The data contains geographical bias, as data sales records are computed based on "retail sampling and trends in individual countries, which are then extrapolated to represent the wider region." [(https://www.vgchartz.com/methodology.php)](https://www.vgchartz.com/methodology.php) Mean imputation was used to calculate missing values in records of Global Sales.
 
 ## **Analysis**
-###[Project Reflections]
+[Project Reflections](https://github.com/dsad8000/gameco_marketing_project/blob/main/Project_Reflections.pdf)
 
 ## **Recommendations**
-###[Presentation of Findings]
+[Presentation of Findings](https://github.com/dsad8000/gameco_marketing_project/blob/main/gameco_marketing.pdf)
 
 
