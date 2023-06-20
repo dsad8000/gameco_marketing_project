@@ -1,7 +1,7 @@
 # GameCo Marketing Strategy
 
 ## **Objective**
-### GameCo is a new video game company which wants to use data from the sales of past video games to inform the development of their new games. They are requesting a descriptive analysis of video game data to inform insights on how new games would perform in market sales.
+#### GameCo is a new video game company which wants to use data from the sales of past video games to inform the development of their new games. They are requesting a descriptive analysis of video game data to inform insights on how new games would perform in market sales.
 
 ### Business Questions
 - Are certain types of games more popular than others?
@@ -14,7 +14,7 @@
 [Data retrieved from VGChartz site](https://www.vgchartz.com/)
 
 ## **Limitations**
-### Games included in the dataset are those that sold more than 100,000 copies. The data contains geographical bias, as data sales records are computed based on "retail sampling and trends in individual countries, which are then extrapolated to represent the wider region." [(https://www.vgchartz.com/methodology.php)](https://www.vgchartz.com/methodology.php) Mean imputation was used to calculate missing values in records of Global Sales.
+#### Games included in the dataset are those that sold more than 100,000 copies. The data contains geographical bias, as data sales records are computed based on "retail sampling and trends in individual countries, which are then extrapolated to represent the wider region." [(https://www.vgchartz.com/methodology.php)](https://www.vgchartz.com/methodology.php) Mean imputation was used to calculate missing values in records of Global Sales.
 
 ## **Analysis**
 [Project Reflections](https://github.com/dsad8000/gameco_marketing_project/blob/main/Project_Reflections.pdf)
