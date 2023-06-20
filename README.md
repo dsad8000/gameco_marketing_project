@@ -10,7 +10,6 @@
 - How have GameCo's sales figures varied between geographic regions over time?
 
 ## **Data**
-### [Downloadable Excel file](https://github.com/dsad8000/gameco_marketing_project/blob/main/Video_sales.xlsx)
 [Data retrieved from VGChartz site](https://www.vgchartz.com/)
 
 ## **Limitations**
